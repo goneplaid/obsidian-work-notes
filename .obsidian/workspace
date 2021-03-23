@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f521dd1104aa750f",
+        "id": "e46f7357652ffb22",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hivewire Garden App Thing.md",
+            "file": "Pattern - Blah blah blah.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hivewire Garden App Thing.md",
+                "file": "Pattern - Blah blah blah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,21 +88,32 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a3d410144a5d0777",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Pattern.md",
     "Hivewire Garden App Thing.md",
-    "Untitled.md",
-    "Hivewire Garden Thangs.md",
-    "Quarterly Review.md",
-    "Daily Notes/2021-03-22.md",
+    "Templates/Template - Hivewire Pattern.md",
+    "Misc/Hivewire Patterns/Pattern - Prefer Data Entry in CanvasTable over Dataset.md",
+    "Daily Test!.md",
+    "Templates/Snippet - Daily Link.md",
+    "Templates/Template - Daily Notes.md",
     "Daily Notes/2021-03-23.md",
-    "Untitled 1.md"
+    "Current Daily!.md",
+    "Templates/Snippet.md"
   ]
 }

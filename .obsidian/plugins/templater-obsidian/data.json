@@ -1,0 +1,1 @@
+{"command_timeout":3,"template_folder":"Templates","templates_pairs":[["{{hashtagged-date}}","date +\"#%A, #%B %d\""],["{{current-daily}}",""]],"locale":"en"}
