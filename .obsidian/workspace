@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dataset.md",
+            "file": "Misc/Hivewire Parts (LEGO)/Dataset.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataset.md",
+                "file": "Misc/Hivewire Parts (LEGO)/Dataset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Dataset.md",
+    "Misc/Hivewire Parts (LEGO)/Dataset.md",
+    "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
+    "Templates/Template - Hivewire Part.md",
+    "Templates/Template - Hivewire Pattern.md",
+    "Templates/Untitled.md",
     "Misc/Hivewire Patterns/_ Hivewire Patterns.md",
+    "Dataset.md",
     "Misc/Hivewire Patterns/Pattern - Prefer Data Entry in CanvasTable over Dataset.md",
     "Misc/Hivewire Patterns/Hivewire Patterns.md",
-    "Pattern.md",
-    "Hivewire Garden App Thing.md",
-    "Templates/Template - Hivewire Pattern.md",
-    "Daily Test!.md",
-    "Templates/Snippet - Daily Link.md",
-    "Templates/Template - Daily Notes.md"
+    "Pattern.md"
   ]
 }
