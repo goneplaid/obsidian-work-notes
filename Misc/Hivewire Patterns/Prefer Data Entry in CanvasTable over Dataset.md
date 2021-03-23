@@ -9,7 +9,7 @@
 
 Get into the habit of never doing data entry directly in a [[Dataset]].
 
-Datasets will most likely contain all kinds of extraneous fields, such as lookup and link fields. They will get in the way.
+Datasets will most likely contain all kinds of extraneous fields, such as lookup and link fields, which will get in the way.
 
-Instead, try to create data-entry "dashboards" for each dataset or combination of datasets that you want to edit in a spreadsheet-like manner.
+Instead, add a [[CanvasTable]] to a [[Workspace]] and then customize what fields you want to see by hiding unnecessary fields. In many cases, it's helpful to add related tables to your view, like a [[CanvasTable]] for a [[Lookup]] or a [[Rollup]].
 
