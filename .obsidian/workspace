@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
+            "file": "Rollup.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "eabd60114fce7d55",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Misc/Hivewire Parts (LEGO)/Workspace.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
+                "file": "Rollup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +116,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Rollup.md",
     "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
+    "Workspace.md",
+    "CanvasTable.md",
     "Misc/Hivewire Parts (LEGO)/Dataset.md",
     "Templates/Template - Hivewire Part.md",
     "Templates/Template - Hivewire Pattern.md",
     "Templates/Untitled.md",
     "Misc/Hivewire Patterns/_ Hivewire Patterns.md",
-    "Dataset.md",
-    "Misc/Hivewire Patterns/Pattern - Prefer Data Entry in CanvasTable over Dataset.md",
-    "Misc/Hivewire Patterns/Hivewire Patterns.md",
-    "Pattern.md"
+    "Dataset.md"
   ]
 }
