@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "7e6ba62833faab68",
+    "type": "split",
+    "children": [
+      {
+        "id": "f521dd1104aa750f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hivewire Garden App Thing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ccf960d934497c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce6dc83bc1d8ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5148c4a5f98c09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0641eed49e221176",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08fe4b8e652275c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a054174e06dcab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cf7a7f04bc1425e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hivewire Garden App Thing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5cf1332251c0025",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Hivewire Garden App Thing.md",
+    "Untitled.md",
+    "Hivewire Garden Thangs.md",
+    "Quarterly Review.md",
+    "Daily Notes/2021-03-22.md",
+    "Daily Notes/2021-03-23.md",
+    "Untitled 1.md"
+  ]
+}
