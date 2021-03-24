@@ -4,14 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "506ffb37dc23d47b",
+        "id": "eef591ff7a77a03f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Hivewire Patterns/One Page Per Workspace Until You Need More.md",
-            "mode": "preview"
+            "file": "Misc/Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6493c7220dc7a147",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Hivewire Patterns/One Page Per Workspace Until You Need More.md",
+                "file": "Misc/Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +116,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Misc/Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
+    "Misc/Hivewire Patterns/_ Hivewire Patterns.md",
+    "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
     "Untitled.md",
     "Misc/Hivewire Parts (LEGO)/Dataset.md",
     "Misc/Hivewire Parts (LEGO)/CanvasTable.md",
     "Misc/Hivewire Parts (LEGO)/Rollup.md",
     "Misc/Hivewire Parts (LEGO)/Workspace.md",
     "CanvasTable.md",
-    "Rollup.md",
-    "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
-    "Workspace.md",
-    "Templates/Template - Hivewire Part.md"
+    "Rollup.md"
   ]
 }
