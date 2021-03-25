@@ -11,6 +11,8 @@
 
 Component serves as a listing for individual items. The current need is for a Create New Users UI. As the user types, it needs to create badges as the user enters each item.
 
+
+
 ### Behavioral Brainstorming
 
 #### Initial function
@@ -36,10 +38,15 @@ As long as their cursor is on the current line, they should see unrendered text.
 4. As the user enters items, the `<VirtualList>` will continue growing with validated, rendered items. As it grows, the scroll position will always need to be at the bottom of the container, always showing the transparent `<input>`
 
 
-### Major Issue @ 1:34 PM
+### Major Issue 
+
+#### 1:34 PM
 
 What about editing existing items? How is that going to work? What if I introduced a typo in an email address and want to change it? Do I just have to nuke it and then enter the corrected version?
 
+#### 3:28 PM
 
+After talking with Matt and Jacob, we decided that we're going to use the same UX pattern that we use for configuring multiselects:
 
+![[Screen Shot 2021-03-25 at 3.28.42 PM.png]]
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-03-25.md",
+            "file": "Planning/New Component - Validated List.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 261
   },
   "right": {
     "id": "08fe4b8e652275c4",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-03-25.md",
+                "file": "Planning/New Component - Validated List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +109,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 194
   },
   "lastOpenFiles": [
+    "Planning/New Component - Validated List.md",
     "Daily Notes/2021-03-25.md",
     "Hivewind Status.md",
     "Hivewire Garden App Thing.md",
@@ -120,7 +121,6 @@
     "media/Screen Shot 2021-03-25 at 10.38.38 AM.png",
     "Daily Notes/2021-03-22.md",
     "Daily Notes/2021-03-23.md",
-    "Templates/Untitled.md",
-    "Templates/Template - Hivewire Part.md"
+    "Templates/Untitled.md"
   ]
 }
