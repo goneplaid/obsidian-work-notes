@@ -26,6 +26,9 @@ As long as their cursor is on the current line, they should see unrendered text.
 ### Elements of the Component
 
 1. A div to serve as a canvas/container
-2. A transparent text input that should always receive focus as the user types.
+2. A transparent text input that should always receive focus when the user clicks the overall component.
 	1. It should span the width of the container and only should have a leading of `1`
-	2. 
+	2. If the user hits the tab key, it should move focus to the next component.
+3. A `<VirtualList>` above the text input. Appears empty w/ no height w/ no items.
+	2. This is actually perfect (I'm looking at the stories for `<VirtualList>` RN). It has a bunch of facilities that we'll need for this to work.
+	1. For instance, we could use `renderRow` for our custom 
