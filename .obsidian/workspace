@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hivewind Status.md",
+            "file": "Daily Notes/2021-03-25.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hivewind Status.md",
+                "file": "Daily Notes/2021-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +112,8 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Hivewind Status.md",
     "Daily Notes/2021-03-25.md",
+    "Hivewind Status.md",
     "Hivewire Garden App Thing.md",
     "Untitled.md",
     "New Component.md",
