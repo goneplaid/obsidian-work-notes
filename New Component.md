@@ -20,4 +20,12 @@ A user needs to be able to focus into this component and start typing text. It k
 #### Continued usage as the user types
 
 As long as their cursor is on the current line, they should see unrendered text. As soon as they hit enter to complete the item, it should then render the text into a component.
-- There needs to be some sort of validation that one can pass in that will determine the color state of the rendered object. Let's create an `onRender` event for this. 
+- Note: There needs to be some sort of validation that one can pass in that will determine the color state of the rendered object. Let's create an `onRender` event for this. 
+
+
+### Elements of the Component
+
+1. A div to serve as a canvas/container
+2. A transparent text input that should always receive focus as the user types.
+	1. It should span the width of the container and only should have a leading of `1`
+	2. 
