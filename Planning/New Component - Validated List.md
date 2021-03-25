@@ -1,4 +1,4 @@
-# New Component
+# New Component - Validated List
 ---
 
 ## [[2021-03-25]] 
@@ -34,3 +34,12 @@ As long as their cursor is on the current line, they should see unrendered text.
 	2. This is actually perfect (I'm looking at the stories for `<VirtualList>` RN). It has a bunch of facilities that we'll need for this to work.
 	1. For instance, we could use `renderRow` for our custom render function. This will render a dismissable label with a conditional color.
 4. As the user enters items, the `<VirtualList>` will continue growing with validated, rendered items. As it grows, the scroll position will always need to be at the bottom of the container, always showing the transparent `<input>`
+
+
+### Major Issue @ 1:34 PM
+
+What about editing existing items? How is that going to work? What if I introduced a typo in an email address and want to change it? Do I just have to nuke it and then enter the corrected version?
+
+
+
+

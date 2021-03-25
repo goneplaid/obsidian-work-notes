@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Component.md",
+            "file": "Hivewind Status.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Component.md",
+                "file": "Hivewind Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +93,14 @@
             "id": "a3d410144a5d0777",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f57fbf455c763887",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
@@ -104,15 +112,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Hivewind Status.md",
+    "Daily Notes/2021-03-25.md",
+    "Hivewire Garden App Thing.md",
+    "Untitled.md",
     "New Component.md",
     "media/Screen Shot 2021-03-25 at 10.38.38 AM.png",
     "Daily Notes/2021-03-22.md",
     "Daily Notes/2021-03-23.md",
-    "Daily Notes/2021-03-25.md",
-    "Untitled.md",
     "Templates/Untitled.md",
-    "Templates/Template - Hivewire Part.md",
-    "Templates/Template - Daily Notes.md",
-    "Misc/Hivewire Patterns/Use One Page Per Workspace Until You Need More.md"
+    "Templates/Template - Hivewire Part.md"
   ]
 }
