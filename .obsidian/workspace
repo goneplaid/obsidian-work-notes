@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "eef591ff7a77a03f",
+        "id": "700443a717602b59",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
+            "file": "Daily Notes/2021-03-25.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
+                "file": "Daily Notes/2021-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Daily Notes/2021-03-25.md",
     "Misc/Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
     "Misc/Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
     "Misc/Hivewire Parts (LEGO)/CanvasTable.md",
@@ -112,7 +113,6 @@
     "Misc/Hivewire Parts (LEGO)/Dataset.md",
     "Misc/Hivewire Parts (LEGO)/Rollup.md",
     "Misc/Hivewire Parts (LEGO)/Workspace.md",
-    "CanvasTable.md",
-    "Rollup.md"
+    "CanvasTable.md"
   ]
 }
