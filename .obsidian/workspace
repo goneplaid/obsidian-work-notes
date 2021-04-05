@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-03-28.md",
+            "file": "Daily Notes/2021-04-05.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-03-28.md",
+                "file": "Daily Notes/2021-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +112,10 @@
     "width": 194
   },
   "lastOpenFiles": [
+    "Daily Notes/2021-04-05.md",
     "Daily Notes/2021-03-28.md",
     "Daily Notes/2021-03-25.md",
     "Daily Notes/2021-03-23.md",
-    "Daily Notes/2021-04-05.md",
     "Templates/Snippet - Daily Link.md",
     "Templates/Template - Daily Notes.md",
     "Planning/New Component - Validated List.md",
