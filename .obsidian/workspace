@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-03-28.md",
+            "file": "Daily Notes/2021-04-05.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-03-28.md",
+                "file": "Daily Notes/2021-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
     "width": 194
   },
   "lastOpenFiles": [
+    "Daily Notes/2021-04-05.md",
     "Daily Notes/2021-03-28.md",
     "Templates/Snippet - Daily Link.md",
     "Templates/Template - Daily Notes.md",
@@ -120,7 +121,6 @@
     "Hivewind Status.md",
     "Hivewire Garden App Thing.md",
     "Untitled.md",
-    "New Component.md",
-    "media/Screen Shot 2021-03-25 at 10.38.38 AM.png"
+    "New Component.md"
   ]
 }
