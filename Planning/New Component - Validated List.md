@@ -57,7 +57,7 @@ After talking with Matt and Jacob, we decided that we're going to use the same U
 
 - [ ] Disable create w/ no emails
 - [ ] copy/paste
-- [ ] clear existing emails on cancel
+- [x] clear existing emails on cancel
 - [x] update copy (because of no groups)
 - [x] create badge on space
 - [ ] keyboard support for deleting emails (backspace)
