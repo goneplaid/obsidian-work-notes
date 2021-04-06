@@ -50,3 +50,14 @@ After talking with Matt and Jacob, we decided that we're going to use the same U
 
 ![[Screen Shot 2021-03-25 at 3.28.42 PM.png]]
 
+
+
+
+## [[2021-04-06]] 11:43 AM, QA Testing Feedback
+
+- [ ] Disable create w/ no emails
+- [ ] copy/paste
+- [ ] clear existing emails on cancel
+- [ ] update copy (because of no groups)
+- [ ] create badge on space
+- [ ] keyboard support for delet
