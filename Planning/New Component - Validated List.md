@@ -55,8 +55,8 @@ After talking with Matt and Jacob, we decided that we're going to use the same U
 
 ## [[2021-04-06]] 11:43 AM, QA Testing Feedback
 
-- [ ] Disable create w/ no emails
-- [ ] copy/paste
+- [x] Disable create w/ no emails
+- [x] copy/paste
 - [x] clear existing emails on cancel
 - [x] update copy (because of no groups)
 - [x] create badge on space
