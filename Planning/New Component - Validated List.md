@@ -61,4 +61,7 @@ After talking with Matt and Jacob, we decided that we're going to use the same U
 - [x] update copy (because of no groups)
 - [x] create badge on space
 - [ ] keyboard support for deleting emails (backspace)
+- [ ] icon color for X on badges
+- [ ] header padding
+- [ ] use 24px icon for close X
 
