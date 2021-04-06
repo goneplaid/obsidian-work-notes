@@ -59,6 +59,6 @@ After talking with Matt and Jacob, we decided that we're going to use the same U
 - [ ] copy/paste
 - [ ] clear existing emails on cancel
 - [ ] update copy (because of no groups)
-- [ ] create badge on space
+- [x] create badge on space
 - [ ] keyboard support for deleting emails (backspace)
 
