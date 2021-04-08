@@ -62,6 +62,6 @@ After talking with Matt and Jacob, we decided that we're going to use the same U
 - [x] create badge on space
 - [ ] keyboard support for deleting emails (backspace)
 - [x] icon color for X on badges
-- [ ] header padding
-- [ ] use 24px icon for close X
+- [x] header padding
+- [x] use 24px icon for close X
 
