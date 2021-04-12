@@ -6,12 +6,11 @@
       {
         "id": "fdcf1045524294b0",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/New Component - Validated List.md",
-            "mode": "preview"
+            "file": "Daily Notes/2021-04-12.md",
+            "mode": "source"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/New Component - Validated List.md",
+                "file": "Daily Notes/2021-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +112,9 @@
     "direction": "horizontal",
     "width": 194
   },
+  "active": "fdcf1045524294b0",
   "lastOpenFiles": [
+    "Daily Notes/2021-04-12.md",
     "Planning/New Component - Validated List.md",
     "Daily Notes/2021-03-25.md",
     "Daily Notes/2021-04-06.md",
@@ -120,7 +123,6 @@
     "Quarterly Review.md",
     "Planning/media/Screen Shot 2021-03-25 at 3.28.42 PM.png",
     "Templates/Template - Hivewire Pattern.md",
-    "Daily Notes/2021-04-05.md",
-    "Daily Notes/2021-03-28.md"
+    "Daily Notes/2021-04-05.md"
   ]
 }
