@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-05-08.md",
+            "file": "Daily Notes/2021-05-11.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-05-08.md",
+                "file": "Daily Notes/2021-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "705e6926b92fa936",
   "lastOpenFiles": [
+    "Daily Notes/2021-05-11.md",
+    "Planning/New Component - Validated List.md",
     "Daily Notes/2021-05-08.md",
     "Daily Notes/2021-05-10.md",
     "Daily Notes/2021-05-09.md",
@@ -121,8 +123,6 @@
     "Daily Notes/2021-04-30.md",
     "Daily Notes/2021-04-27.md",
     "Daily Notes/2021-04-26.md",
-    "Daily Notes/2021-04-25.md",
-    "Daily Notes/2021-04-15.md",
-    "Daily Notes/2021-04-22.md"
+    "Daily Notes/2021-04-25.md"
   ]
 }
