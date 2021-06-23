@@ -3,9 +3,9 @@
 ---
 
 ## [[2021-03-23]]
+## [[2021-06-23]]
 
 ---
-
 
 
 ### Review Assumption Categories
@@ -25,3 +25,15 @@
 
 
 #### Interpersonal Skills
+
+- I'm always very friendly and not assuming of people, ie, non-judgemental
+- Somt
+
+
+
+
+
+#### Work Style
+
+
+#### Personal Development
