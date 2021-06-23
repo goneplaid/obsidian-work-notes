@@ -35,6 +35,7 @@
 #### Work Style
 
 - I like to be in my own world and think through problems that I'm faced with; social problem-solving isn't my goto unless I actually need help
+- I spend time thinking through a problem and trying to understand as many aspects of it as possible before I start writing actual code
 - 
 
 
