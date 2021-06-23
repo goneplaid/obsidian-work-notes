@@ -18,13 +18,19 @@
 
 #### Technical Ability
 
+Assumptions
+
 - I'm a seasoned web developer but am very new to react
 - I am not as familiar with microservices as everyone else is around here
 - I am solid on a lot of the foundational aspects of being a developer
 - I understand many things very quickly
 
+Goals
+
 
 #### Interpersonal Skills
+
+Assumptions
 
 - I'm always very friendly and not assuming of people, ie, non-judgemental
 - Sometimes I'm too quiet and feel like I might be missing out on some subtle, social nuances and/or activities
@@ -33,6 +39,8 @@
 - 
 
 #### Work Style
+
+Assumptions
 
 - I like to be in my own world and think through problems that I'm faced with; social problem-solving isn't my goto unless I actually need help
 - I spend time thinking through a problem and trying to understand as many aspects of it as possible before I start writing actual code
