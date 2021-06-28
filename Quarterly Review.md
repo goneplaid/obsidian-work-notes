@@ -20,12 +20,16 @@
 
 Assumptions
 
-- I'm a seasoned web developer but am very new to react
-- I am not as familiar with microservices as everyone else is around here
-- I am solid on a lot of the foundational aspects of being a developer
-- I understand many things very quickly
+- I'm a veteren web developer but am very new to react
+- I am not as familiar with microservices as everyone else is at Hivewire
+- I am very comfortable with most of the foundational aspects of being a web developer
+- I understand new things quickly
+- It takes time for me to cultivate a solid understand of an entire ecosystem of services
 
 Goals
+
+- Read the microservices book
+- Become more familiar with the bac
 
 
 #### Interpersonal Skills
