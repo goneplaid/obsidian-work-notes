@@ -29,7 +29,8 @@ Assumptions
 Goals
 
 - Read the microservices book
-- Become more familiar with the bac
+- Become more familiar with the backend systems at Hivewire
+- Continue learning about the frontend/backend systems to the point where I can make meaningful architectural contributions to the frontend
 
 
 #### Interpersonal Skills
@@ -37,10 +38,16 @@ Goals
 Assumptions
 
 - I'm always very friendly and not assuming of people, ie, non-judgemental
-- Sometimes I'm too quiet and feel like I might be missing out on some subtle, social nuances and/or activities
+- Sometimes I'm too quiet and feel like I might be missing out on certain social happenings
 - I'm very approachable
 - I'm very quiet in meetings as I feel like most people cover the things I want to say, so I can put more effort into paying attention to everyone instead of considering when it might be my turn to talk (I feel like that's way more important, but if something came up that no one else addressed; I would ask)
-- 
+
+Goals
+
+- Become more social and foster closer relationships with my colleagues
+- Be more engaging in meetings, if appropriate
+
+
 
 #### Work Style
 
