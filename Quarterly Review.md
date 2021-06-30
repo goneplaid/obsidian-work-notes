@@ -31,7 +31,18 @@ Directions: Pick 3-4 goals from below (based on assumsptions about yourself that
 
 #### Final Questions
 
-- [ ] What's
+- [ ] How is my participation within the company in regard to its social aspects? Is there anything I can do to improve my involvement?
+- [ ] How would you evaluate my ability to deliver on the features I've taken on?
+- [ ] When I first started, I was still very new to React. If applicable, how would you rate my adoption of the framework in day-to-day work?
+- [ ] 
+
+
+
+1. Converting old CSS to TW classes
+2. Fixing bugs on things I've built
+3. Polishing things I've built
+
+
 
 
 
