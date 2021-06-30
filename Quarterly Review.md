@@ -34,7 +34,9 @@ Directions: Pick 3-4 goals from below (based on assumsptions about yourself that
 - [ ] How is my participation within the company in regard to its social aspects? Is there anything I can do to improve my involvement?
 - [ ] How would you evaluate my ability to deliver on the features I've taken on?
 - [ ] When I first started, I was still very new to React. If applicable, how would you rate my adoption of the framework in day-to-day work?
-- [ ] 
+- [ ] Do I seem approachable when it comes to sensitive subjects that may involve criticimsm of my work/behavior?
+- [ ] Have I made enough of a positive impact in my job performance so far or is there more that you wish to see from me? Maybe something that I'm lacking in a particular area?
+- [ ] What are areas of growth that you would like to personally see me more engaged in?
 
 
 
