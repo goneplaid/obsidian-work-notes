@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 382.0121879577637
   },
   "right": {
     "id": "08fe4b8e652275c4",
@@ -115,14 +115,14 @@
   "active": "0ba48f2b249c703f",
   "lastOpenFiles": [
     "Daily Notes/2021-06-30.md",
+    "Hivewire Garden App Thing.md",
+    "Old Note Dump.md",
+    "QA Testing.md",
+    "Tailwind Implementation Planning.md",
     "Quarterly Review.md",
     "Daily Notes/2021-05-05.md",
     "Daily Notes/2021-06-23.md",
     "Daily Notes/2021-06-22.md",
-    "Daily Notes/2021-06-09.md",
-    "Daily Notes/2021-06-08.md",
-    "Daily Notes/2021-06-01.md",
-    "Daily Notes/2021-05-29.md",
-    "Daily Notes/2021-05-24.md"
+    "Daily Notes/2021-06-09.md"
   ]
 }
