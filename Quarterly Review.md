@@ -7,6 +7,8 @@
 
 ---
 
+Directions: Pick 3-4 goals from below (based on assumsptions about yourself that you've also written) and get these to Nick.
+
 
 ### Review Assumption Categories
 
@@ -14,6 +16,24 @@
 - Interpersonal Skills
 - Work Style
 - Personal Development
+
+
+
+#### Final Goals
+
+
+
+- [ ] Cultivate a deeper understanding of the React framework and a solid foundation in the basics.
+
+
+
+
+#### Final Questions
+
+
+
+
+
 
 
 #### Technical Ability
