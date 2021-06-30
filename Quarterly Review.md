@@ -23,14 +23,15 @@ Directions: Pick 3-4 goals from below (based on assumsptions about yourself that
 
 
 
-- [ ] Cultivate a deeper understanding of the React framework and a solid foundation in the basics.
-
-
+- [ ] Cultivate a deeper understanding of the React framework and a solid foundation in its basics
+- [ ] Read the Microservices book
+- [ ] Do better job at managing your tasks
+- [ ] Become more versed in the Hivewire stack so you can contribute more to planning/breakdown sessions
 
 
 #### Final Questions
 
-
+- [ ] What's
 
 
 
@@ -43,7 +44,7 @@ Assumptions
 - I'm a veteren web developer but am very new to react
 - I am not as familiar with microservices as everyone else is at Hivewire
 - I am very comfortable with most of the foundational aspects of being a web developer
-- I understand new things quickly
+- I understand the gist of things fairly quickly but need more time to assimilate the many details
 - It takes time for me to cultivate a solid understand of an entire ecosystem of services
 
 Goals
