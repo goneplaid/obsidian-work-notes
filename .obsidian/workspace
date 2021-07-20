@@ -7,11 +7,8 @@
         "id": "0ba48f2b249c703f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily Notes/2021-07-03.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
