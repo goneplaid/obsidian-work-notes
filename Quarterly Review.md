@@ -29,6 +29,7 @@ How is Shawn meeting expectations for his role?
 
 Do you have any feedback for Shawn specific to this question?
 
+<br /><br />
 
 #### 2. 
 
@@ -41,6 +42,7 @@ Shawn was new to React when he first started at Hivewire. How would you rate his
 
 Do you have any feedback for Shawn specific to this question?
 
+<br /><br />
 
 #### 3. 
 
@@ -55,19 +57,26 @@ How would you evaluate Shawn's ability to deliver on the features he's worked on
 
 Do you have any feedback for Shawn specific to this question?
 
+<br /><br />
 
 #### 4. 
 
-Engineers are expected to contribute not just code each day, but ideas and architectural input. How has Shawn 
+Engineers are expected to contribute not just code each day, but ideas and architectural input. How has Shawn been doing in this area?
 
 
 |  | 1 <br /> (Not Meeting) | 2 <br /> . | 3 <br /> . | 4 <br /> . | 5 <br /> (Exceeding) |
 | --- | --- | --- | --- | --- | --- |
-| Efficency | | | | | |
-| Quality | | | | | |
-| Accuracy | | | | | |
+| Non-Code Contributions | | | | | |
 
 Do you have any feedback for Shawn specific to this question?
+
+<br /><br />
+
+#### 5. 
+
+Is there anything more that you wish to see from Shawn or anything other forms of feedback that you wish to bring to his attention?
+
+
 
 
 
@@ -76,7 +85,7 @@ Do you have any feedback for Shawn specific to this question?
 
 
 
-
+<br /><br /><br /><br />
 
 
 
