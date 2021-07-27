@@ -19,18 +19,41 @@ Here's a revised list of final questions with the google doc questionaire format
 
 #### 1. 
 
+How is Shawn meeting expectations for his role?
+
+
+|  | 1 <br /> (Not Meeting) | 2 <br /> . | 3 <br /> . | 4 <br /> . | 5 <br /> (Exceeding) |
+| --- | --- | --- | --- | --- | --- |
+| Fulfilling his role | | | | | |
+
+
+#### 2. 
+
 How would you evaluate Shawn's ability to deliver on the features he's worked on?
 
 
-|  | 1 **`<br />`** (Not Meeting) | 2 | 3 | 4 | 5 (Exceeding) |
+|  | 1 <br /> (Not Meeting) | 2 <br /> . | 3 <br /> . | 4 <br /> . | 5 <br /> (Exceeding) |
 | --- | --- | --- | --- | --- | --- |
-| Efficency (speed) | | | | | |
+| Efficency | | | | | |
 | Quality | | | | | |
 | Accuracy | | | | | |
 
 
+#### 3. 
+
+Shawn was new to React when he first started at Hivewire. How would you rate his abilities with the framework now? 
+
+
+|  | 1 <br /> (Not Meeting) | 2 <br /> . | 3 <br /> . | 4 <br /> . | 5 <br /> (Exceeding) |
+| --- | --- | --- | --- | --- | --- |
+| Using React | | | | | |
+
+
 
 --- 
+
+
+
 
 
 
