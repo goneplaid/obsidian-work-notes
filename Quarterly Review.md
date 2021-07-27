@@ -21,11 +21,15 @@ Here's a revised list of final questions with the google doc questionaire format
 How would you evaluate Shawn's ability to deliver on the features he's worked on?
 
 
-|
-|
-|
-|
-|
+|  | Not Meeting | Meeting | Exceeding |
+| --- | --- | --- | --- |
+| Efficency (speed) |  |  |  |  
+| Quality | [ ] | [ ] | [ ] |  
+| Accuracy | [ ] | [  ] | [  ] |  
+
+
+
+
 
 
 
