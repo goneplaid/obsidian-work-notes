@@ -15,19 +15,22 @@ FInal questions. Most of my initial ones were shit and akward sounding. Try not 
 
 Here's a revised list of final questions with the google doc questionaire format in mind.
 
+--- 
 
-
+#### 1. 
 
 How would you evaluate Shawn's ability to deliver on the features he's worked on?
 
 
-|  | Not Meeting | Meeting | Exceeding |
-| --- | --- | --- | --- |
-| Efficency (speed) |  |  |  |  
-| Quality | [ ] | [ ] | [ ] |  
-| Accuracy | [ ] | [  ] | [  ] |  
+|  | 1 **`<br />`** (Not Meeting) | 2 | 3 | 4 | 5 (Exceeding) |
+| --- | --- | --- | --- | --- | --- |
+| Efficency (speed) | | | | | |
+| Quality | | | | | |
+| Accuracy | | | | | |
 
 
+
+--- 
 
 
 
