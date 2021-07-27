@@ -17,6 +17,7 @@ Here's a revised list of final questions with the google doc questionaire format
 
 --- 
 
+
 #### 1. 
 
 How is Shawn meeting expectations for his role?
@@ -26,8 +27,22 @@ How is Shawn meeting expectations for his role?
 | --- | --- | --- | --- | --- | --- |
 | Fulfilling his role | | | | | |
 
+Do you have any feedback for Shawn specific to this question?
+
 
 #### 2. 
+
+Shawn was new to React when he first started at Hivewire. How would you rate his abilities with the framework now? 
+
+
+|  | 1 <br /> (Not Meeting) | 2 <br /> . | 3 <br /> . | 4 <br /> . | 5 <br /> (Exceeding) |
+| --- | --- | --- | --- | --- | --- |
+| Using React | | | | | |
+
+Do you have any feedback for Shawn specific to this question?
+
+
+#### 3. 
 
 How would you evaluate Shawn's ability to deliver on the features he's worked on?
 
@@ -38,15 +53,22 @@ How would you evaluate Shawn's ability to deliver on the features he's worked on
 | Quality | | | | | |
 | Accuracy | | | | | |
 
+Do you have any feedback for Shawn specific to this question?
 
-#### 3. 
 
-Shawn was new to React when he first started at Hivewire. How would you rate his abilities with the framework now? 
+#### 4. 
+
+Engineers are expected to contribute not just code each day, but ideas and architectural input. How has Shawn 
 
 
 |  | 1 <br /> (Not Meeting) | 2 <br /> . | 3 <br /> . | 4 <br /> . | 5 <br /> (Exceeding) |
 | --- | --- | --- | --- | --- | --- |
-| Using React | | | | | |
+| Efficency | | | | | |
+| Quality | | | | | |
+| Accuracy | | | | | |
+
+Do you have any feedback for Shawn specific to this question?
+
 
 
 
