@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-07-22.md",
-            "mode": "preview"
+            "file": "Quarterly Review.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-07-22.md",
+                "file": "Quarterly Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "0ba48f2b249c703f",
   "lastOpenFiles": [
+    "Quarterly Review.md",
+    "Daily Notes/2021-06-09.md",
+    "Daily Notes/2021-06-30.md",
     "Daily Notes/2021-07-22.md",
     "Daily Notes/2021-07-03.md",
     "Daily Notes/2021-05-24.md",
-    "Daily Notes/2021-06-30.md",
     "Hivewire Garden App Thing.md",
     "Old Note Dump.md",
     "QA Testing.md",
-    "Tailwind Implementation Planning.md",
-    "Quarterly Review.md",
-    "Daily Notes/2021-05-05.md"
+    "Tailwind Implementation Planning.md"
   ]
 }

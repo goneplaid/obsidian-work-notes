@@ -4,8 +4,47 @@
 
 ## [[2021-03-23]]
 ## [[2021-06-23]]
+## [[2021-07-27]]
 
 ---
+
+
+### Update: [[2021-07-27]]
+
+FInal questions. Most of my initial ones were shit and akward sounding. Try not to be so awkward!
+
+Here's a revised list of final questions with the google doc questionaire format in mind.
+
+
+
+
+How would you evaluate Shawn's ability to deliver on the features he's worked on?
+
+
+|
+|
+|
+|
+|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Directions: Pick 3-4 goals from below (based on assumsptions about yourself that you've also written) and get these to Nick.
 
