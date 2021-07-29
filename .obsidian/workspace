@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-07-22.md",
-            "mode": "source"
+            "file": "Quarterly Review.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-07-22.md",
+                "file": "Quarterly Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "0ba48f2b249c703f",
   "lastOpenFiles": [
-    "Daily Notes/2021-07-22.md",
     "Quarterly Review.md",
+    "Daily Notes/2021-07-22.md",
     "Daily Notes/2021-06-09.md",
     "Daily Notes/2021-06-30.md",
     "Daily Notes/2021-07-03.md",
