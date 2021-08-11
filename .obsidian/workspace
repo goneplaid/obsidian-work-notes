@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-08-08.md",
+            "file": "Daily Notes/2021-08-11.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-08-08.md",
+                "file": "Daily Notes/2021-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +106,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 194
+    "width": 389.4001159667969
   },
   "active": "0ba48f2b249c703f",
   "lastOpenFiles": [
+    "Daily Notes/2021-08-11.md",
+    "Daily Notes/2021-07-22.md",
+    "Daily Notes/2021-06-01.md",
     "Daily Notes/2021-08-08.md",
     "Daily Notes/2021-07-30.md",
+    "Daily Notes/2021-06-30.md",
     "Untitled.md",
-    "Daily Notes/2021-07-22.md",
     "Quarterly Review.md",
     "Daily Notes/2021-06-09.md",
-    "Daily Notes/2021-06-30.md",
-    "Daily Notes/2021-07-03.md",
-    "Daily Notes/2021-05-24.md",
-    "Hivewire Garden App Thing.md"
+    "Daily Notes/2021-07-03.md"
   ]
 }
