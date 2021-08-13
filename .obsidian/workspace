@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-08-11.md",
+            "file": "Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-08-11.md",
+                "file": "Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "0ba48f2b249c703f",
   "lastOpenFiles": [
+    "Hivewire Patterns/Use One Page Per Workspace Until You Need More.md",
+    "Hivewire Patterns/Prefer Data Entry in CanvasTable over Dataset.md",
+    "Hivewire Patterns/_ Hivewire Patterns.md",
+    "Hivewire Parts (LEGO)/Workspace.md",
+    "Hivewire Parts (LEGO)/Rollup.md",
+    "Hivewire Parts (LEGO)/Dataset.md",
+    "Hivewire Parts (LEGO)/Canvas Table.md",
     "Daily Notes/2021-08-11.md",
     "Daily Notes/2021-07-22.md",
-    "Daily Notes/2021-06-01.md",
-    "Daily Notes/2021-08-08.md",
-    "Daily Notes/2021-07-30.md",
-    "Daily Notes/2021-06-30.md",
-    "Untitled.md",
-    "Quarterly Review.md",
-    "Daily Notes/2021-06-09.md",
-    "Daily Notes/2021-07-03.md"
+    "Daily Notes/2021-06-01.md"
   ]
 }
